@@ -6,5 +6,6 @@
     font-size: 25%;
  }
  @media screen and (max-width:808px) {
-    
- }
+   h1{font: size 150%;} 
+ body { background-color: blueviolet;}
+}
