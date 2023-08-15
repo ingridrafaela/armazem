@@ -1,1 +1,1 @@
-.addEventListener
+.addEventListener("click")
