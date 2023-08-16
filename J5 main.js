@@ -1,1 +1,1 @@
-.addEventListener("click")
+const robotron = document.querySelector("#robotron")
