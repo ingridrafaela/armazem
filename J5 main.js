@@ -40,3 +40,6 @@ estoque: "11 unidades"
 genero: "Front-end"
 titulo: "Cangaceiro JavaScript"
 preco: 31.92
+delete livros[1].autor
+console.log(this === window); // true
+console.log(this)
