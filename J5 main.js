@@ -14,3 +14,22 @@ function mudaCores(elementos){
     var cores = elementos.getAttribute("[data-cor]");
     var tipoElemento = elementos.getAttribute("[data-tipo]");
   }
+  var livros = [
+    {titulo: "Cangaceiro JavaScript",  
+    autor: "Flávio Almeida", 
+    genero: "Front-end", 
+    editora: "Casa do código", 
+    preco:31.92
+},
+    {titulo: "Cangaceiro JavaScript",  
+    autor: "Flávio Almeida", 
+    genero: "Front-end", 
+    editora: "Casa do código", 
+    preco:21.89},
+
+    {titulo: "Cangaceiro JavaScript",  
+    autor: "Flávio Almeida", 
+    genero: "Front-end", 
+    editora: "Casa do código", 
+    preco:31.92},
+]
