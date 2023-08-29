@@ -287,3 +287,4 @@ console.log(soma(2,5))
 console.log(alura)
 var alura = ‘cursos’;
 undefined
+script.js:1 Uncaught ReferenceError: Cannot access 'alura' before initialization```
