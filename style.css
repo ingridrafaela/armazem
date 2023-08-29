@@ -276,3 +276,14 @@ main {
         margin: 10vh auto;
     }
 }
+console.log(soma(2, 5))
+function soma(a, b) {
+return a + b
+}
+function soma(a,b){
+    return a + b
+}
+console.log(soma(2,5))
+console.log(alura)
+var alura = ‘cursos’;
+undefined
