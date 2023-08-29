@@ -34,3 +34,9 @@ function mudaCores(elementos){
     preco:31.92},
 ]
 livros[1].genero = "UX e Design"
+autor: "Flávio Almeida"
+editora: "Casa do código"
+estoque: "11 unidades"
+genero: "Front-end"
+titulo: "Cangaceiro JavaScript"
+preco: 31.92
