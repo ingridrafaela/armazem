@@ -33,3 +33,4 @@ function mudaCores(elementos){
     editora: "Casa do código", 
     preco:31.92},
 ]
+livros[1].genero = "UX e Design"

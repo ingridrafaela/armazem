@@ -312,4 +312,3 @@ var livros = [
 
 console.log(livros[0]["autor"])
 console.log(livros[0].autor)
-livros[1].genero = "UX e Design"
